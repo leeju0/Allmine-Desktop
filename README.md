@@ -12,7 +12,7 @@
 
 ## Demo
 
-[![Allmine Desktop demo video](assets/allmine-demo-poster.png)](assets/allmine-demo.mp4)
+https://github.com/user-attachments/assets/87dbd69b-bcc4-47a7-a5e5-513c1befed43
 
 ## Highlights
 
@@ -27,7 +27,7 @@
 Get the latest version from **[GitHub Releases](https://github.com/leeju0/Allmine-Desktop/releases/latest)**.
 
 - Windows 10 or 11 (64-bit): `Allmine-<version>-Setup.exe`
-- macOS (Intel and Apple Silicon): `Allmine-<version>-universal.dmg`
+- macOS (Intel and Apple Silicon): Coming soon
 
 ## Local-first
 

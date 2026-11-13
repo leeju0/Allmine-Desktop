@@ -16,7 +16,7 @@
 
 ### 한눈에 보기
 
-Allmine의 캘린더, 로컬 파일 워크스페이스, Markdown 메모, 가계부와 내장 브라우저를 Windows와 macOS에서 사용할 수 있는 첫 공개 프리뷰입니다. 자주 사용하는 화면과 설정을 앱을 다시 실행한 뒤에도 이어갈 수 있도록 구성했습니다.
+Allmine의 캘린더, 로컬 파일 워크스페이스, Markdown 메모, 가계부와 내장 브라우저를 Windows에서 먼저 사용할 수 있는 첫 공개 프리뷰입니다. 자주 사용하는 화면과 설정을 앱을 다시 실행한 뒤에도 이어갈 수 있도록 구성했으며, macOS 버전도 준비 중입니다.
 
 ### 새로 제공하는 기능
 
@@ -30,7 +30,7 @@ Allmine의 캘린더, 로컬 파일 워크스페이스, Markdown 메모, 가계�
 ### 설치 파일
 
 - Windows 10·11 64비트: `Allmine-0.1.0-Setup.exe`
-- macOS Intel·Apple Silicon: `Allmine-0.1.0-universal.dmg`
+- macOS Intel·Apple Silicon 버전은 준비 중입니다.
 
 ### 알아두세요
 
@@ -48,7 +48,7 @@ This page summarizes each release from a user's point of view.
 
 #### At a glance
 
-This is the first public preview of Allmine for Windows and macOS, bringing together the calendar, local-file workspace, Markdown notes, finance tools, and built-in browser. Frequently used views and preferences are designed to continue where you left off after restarting the app.
+This is the first public preview of Allmine for Windows, bringing together the calendar, local-file workspace, Markdown notes, finance tools, and built-in browser. Frequently used views and preferences continue where you left off after restarting the app, and a macOS build is in preparation.
 
 #### What's included
 
@@ -62,7 +62,7 @@ This is the first public preview of Allmine for Windows and macOS, bringing toge
 #### Installers
 
 - Windows 10 or 11, 64-bit: `Allmine-0.1.0-Setup.exe`
-- macOS, Intel and Apple Silicon: `Allmine-0.1.0-universal.dmg`
+- The macOS build for Intel and Apple Silicon is coming soon.
 
 #### Before you install
 

@@ -12,7 +12,7 @@
 
 ## 데모
 
-[![Allmine Desktop 데모 영상](assets/allmine-demo-poster.png)](assets/allmine-demo.mp4)
+https://github.com/user-attachments/assets/87dbd69b-bcc4-47a7-a5e5-513c1befed43
 
 ## 주요 기능
 
@@ -27,7 +27,7 @@
 최신 버전은 **[GitHub Releases](https://github.com/leeju0/Allmine-Desktop/releases/latest)**에서 받을 수 있습니다.
 
 - Windows 10·11 64비트: `Allmine-<version>-Setup.exe`
-- macOS Intel·Apple Silicon: `Allmine-<version>-universal.dmg`
+- macOS Intel·Apple Silicon: 준비 중
 
 ## 로컬 중심
 
