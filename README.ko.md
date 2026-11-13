@@ -27,7 +27,9 @@ https://github.com/user-attachments/assets/87dbd69b-bcc4-47a7-a5e5-513c1befed43
 최신 버전은 **[GitHub Releases](https://github.com/leeju0/Allmine-Desktop/releases/latest)**에서 받을 수 있습니다.
 
 - Windows 10·11 64비트: `Allmine-<version>-Setup.exe`
-- macOS Intel·Apple Silicon: 준비 중
+- macOS Intel·Apple Silicon 통합형(서명 없는 베타): `Allmine-<version>-universal-unsigned.dmg`
+
+macOS 베타는 아직 Apple 서명과 공증을 받지 않아 처음 실행할 때 보안 경고가 표시될 수 있습니다.
 
 ## 로컬 중심
 

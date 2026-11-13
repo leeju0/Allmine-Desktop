@@ -16,7 +16,7 @@
 
 ### 한눈에 보기
 
-Allmine의 캘린더, 로컬 파일 워크스페이스, Markdown 메모, 가계부와 내장 브라우저를 Windows에서 먼저 사용할 수 있는 첫 공개 프리뷰입니다. 자주 사용하는 화면과 설정을 앱을 다시 실행한 뒤에도 이어갈 수 있도록 구성했으며, macOS 버전도 준비 중입니다.
+Allmine의 캘린더, 로컬 파일 워크스페이스, Markdown 메모, 가계부와 내장 브라우저를 Windows와 macOS에서 사용할 수 있는 첫 공개 프리뷰입니다. 자주 사용하는 화면과 설정을 앱을 다시 실행한 뒤에도 이어갈 수 있도록 구성했습니다.
 
 ### 새로 제공하는 기능
 
@@ -30,11 +30,12 @@ Allmine의 캘린더, 로컬 파일 워크스페이스, Markdown 메모, 가계�
 ### 설치 파일
 
 - Windows 10·11 64비트: `Allmine-0.1.0-Setup.exe`
-- macOS Intel·Apple Silicon 버전은 준비 중입니다.
+- macOS Intel·Apple Silicon 통합형(서명 없는 베타): `Allmine-0.1.0-universal-unsigned.dmg`
 
 ### 알아두세요
 
 - 현재 버전은 자동 업데이트를 지원하지 않습니다. 새 버전은 이 저장소의 최신 Release에서 내려받아 설치해 주세요.
+- macOS 베타는 아직 Apple 서명과 공증을 받지 않아 처음 실행할 때 보안 경고가 표시될 수 있습니다.
 - 중요한 문서와 일정 데이터는 운영체제의 백업 기능이나 별도의 백업 도구로 정기적으로 보관하는 것을 권장합니다.
 - 문제를 신고할 때 개인정보, 로그인 정보나 문서 원문은 첨부하지 마세요.
 
@@ -48,7 +49,7 @@ This page summarizes each release from a user's point of view.
 
 #### At a glance
 
-This is the first public preview of Allmine for Windows, bringing together the calendar, local-file workspace, Markdown notes, finance tools, and built-in browser. Frequently used views and preferences continue where you left off after restarting the app, and a macOS build is in preparation.
+This is the first public preview of Allmine for Windows and macOS, bringing together the calendar, local-file workspace, Markdown notes, finance tools, and built-in browser. Frequently used views and preferences continue where you left off after restarting the app.
 
 #### What's included
 
@@ -62,11 +63,12 @@ This is the first public preview of Allmine for Windows, bringing together the c
 #### Installers
 
 - Windows 10 or 11, 64-bit: `Allmine-0.1.0-Setup.exe`
-- The macOS build for Intel and Apple Silicon is coming soon.
+- macOS universal for Intel and Apple Silicon (unsigned beta): `Allmine-0.1.0-universal-unsigned.dmg`
 
 #### Before you install
 
 - Automatic updates are not available yet. Download and install new versions from the latest Release in this repository.
+- The macOS beta is not Apple-signed or notarized yet, so macOS may show a security warning on first launch.
 - Back up important documents and calendar data regularly with your operating system's backup features or another backup tool.
 - Do not attach private documents, passwords, or login details when reporting an issue.
 

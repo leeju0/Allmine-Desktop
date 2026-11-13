@@ -27,7 +27,9 @@ https://github.com/user-attachments/assets/87dbd69b-bcc4-47a7-a5e5-513c1befed43
 Get the latest version from **[GitHub Releases](https://github.com/leeju0/Allmine-Desktop/releases/latest)**.
 
 - Windows 10 or 11 (64-bit): `Allmine-<version>-Setup.exe`
-- macOS (Intel and Apple Silicon): Coming soon
+- macOS (Intel and Apple Silicon, unsigned beta): `Allmine-<version>-universal-unsigned.dmg`
+
+The macOS beta is not Apple-signed or notarized yet, so macOS may show a security warning the first time you open it.
 
 ## Local-first
 
